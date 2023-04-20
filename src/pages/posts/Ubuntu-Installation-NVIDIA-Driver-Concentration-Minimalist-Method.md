@@ -5,8 +5,8 @@ pubDate: 2023-04-20
 description: ''
 author: 'ion'
 cover:
-    url: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
+    url: 'https://img.loxx.cn/i/2023/04/20/j53u07.png'
+    square: 'https://img.loxx.cn/i/2023/04/20/j53u07.png'
     alt: 'cover'
 tags: ["Linux", "学习", "NVIDIA", "显卡", "驱动"]
 theme: 'light'
