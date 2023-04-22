@@ -5,8 +5,8 @@ pubDate: 2023-04-22
 description: ''
 author: 'ion'
 cover:
-    url: 'https://i.postimg.cc/ZnqVXRR9/Chat-GPT-Next-Web.png'
-    square: 'https://i.postimg.cc/ZnqVXRR9/Chat-GPT-Next-Web.png'
+    url: 'https://img.loxx.cn/i/2023/04/22/10eh8eu.png'
+    square: 'https://img.loxx.cn/i/2023/04/22/10eh8eu.png'
     alt: 'cover'
 tags: ["ChatGPT", "Web"]
 theme: 'light'
